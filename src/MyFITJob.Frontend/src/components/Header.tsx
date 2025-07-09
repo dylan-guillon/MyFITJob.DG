@@ -16,7 +16,7 @@ export function Header() {
               <AvatarImage src="/avatar-placeholder.png" alt="Avatar" />
               <AvatarFallback>TODO</AvatarFallback>
             </Avatar>
-            <span className="text-sm font-medium">TODO</span>
+            <span className="text-sm font-medium">Jean-Michel Apeupret</span>
           </div>
         </div>
       </div>
